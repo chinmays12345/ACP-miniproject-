@@ -1,0 +1,59 @@
+==========================
+ACP MINI PROJECT
+PROMPT AND RESPONSE
+==========================
+
+PROMPT
+
+Write a 2D Graphics Editor in C using '*' and '_' characters.
+
+Requirements:
+- Use a 2D character array to store the picture.
+- Implement functions to draw:
+  1. Rectangle
+  2. Line
+  3. Triangle
+  4. Circle
+- Allow the user to:
+  - Add objects
+  - Delete objects
+  - Modify objects
+- Display the picture using a separate function.
+- Create a menu-driven program.
+- Write clean, well-commented code suitable for a first-year ACP Mini Project.
+- Also provide a README.md for GitHub.
+
+------------------------------------------------------------
+
+RESPONSE
+
+A complete C program was generated implementing a console-based 2D Graphics Editor.
+
+Features implemented:
+• 2D character array as the drawing canvas.
+• Rectangle drawing.
+• Line drawing using Bresenham's Line Algorithm.
+• Triangle drawing.
+• Circle drawing using the Midpoint Circle Algorithm.
+• Add objects.
+• Delete objects.
+• Modify objects.
+• Clear the canvas.
+• Display the canvas.
+• Menu-driven interface.
+• README.md for project documentation.
+
+Programming Language:
+C
+
+Algorithms Used:
+1. Bresenham's Line Drawing Algorithm
+2. Midpoint Circle Algorithm
+
+Data Structure Used:
+2D Character Array
+
+Files Included:
+1. graphics_editor.c
+2. README.md
+3. prompt.txt
